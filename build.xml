@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<project name="ant practice" default="create">
+<target name="create">
+	<mkdir dir="c:\ant practice"/>
+	</target>
+</project>
